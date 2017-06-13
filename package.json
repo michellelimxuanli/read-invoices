@@ -1,0 +1,27 @@
+{
+  "name": "read-invoices",
+  "version": "1.0.0",
+  "description": "read an xml file and export csv",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michellelimxuanli/read-invoices.git"
+  },
+  "keywords": [
+    "xml",
+    "csv",
+    "read"
+  ],
+  "author": "Michelle Lim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michellelimxuanli/read-invoices/issues"
+  },
+  "homepage": "https://github.com/michellelimxuanli/read-invoices#readme",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
